@@ -1,3 +1,8 @@
+  if ("https://sites.google.com/student.munster.us/games/games/353-games" !== window.parent.location) {
+          window.onload = function(){ document.getElementsByTagName("html")[0].innerHTML = "Stop. Don't play on this<br>losser lamer wana be<br>like oh, totally";};
+      }
+
+
 console.warn(
   "%cHello!!",
   "color: red; font-weight: 600; background: yellow; padding: 0 5px; border-radius: 5px",
