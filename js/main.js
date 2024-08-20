@@ -1,8 +1,8 @@
   if (window.location == window.parent.location) {
           window.onload = function(){ document.getElementsByTagName("html")[0].innerHTML = "Stop. Don't play on this<br>losser lamer wana be<br>like oh, totally";};
       }
-alert('Hi, this is just for debug reasons you can just ignore this.  window.location: '+ window.location);
-alert('Hi, this is just for debug reasons you can just ignore this.  window.parent.location: '+ window.parent.location);
+//alert('Hi, this is just for debug reasons you can just ignore this.  window.location: '+ window.location);
+//alert('Hi, this is just for debug reasons you can just ignore this.  window.parent.location: '+ window.parent.location);
 
 
 console.warn(
