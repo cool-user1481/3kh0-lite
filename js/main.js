@@ -1,4 +1,4 @@
-  if ("https://sites.google.com/student.munster.us/games/games/353-games" !== window.parent.location) {
+  if (window.location !== window.parent.location) {
           window.onload = function(){ document.getElementsByTagName("html")[0].innerHTML = "Stop. Don't play on this<br>losser lamer wana be<br>like oh, totally";};
       }
 
