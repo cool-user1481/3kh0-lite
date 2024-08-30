@@ -1,5 +1,5 @@
   if (window.location == window.parent.location) {
-          window.onload = function(){ document.getElementsByTagName("html")[0].innerHTML = "Stop. Don't play on this<br>losser lamer wana be<br>like oh, totally";};
+          window.onload = function(){ document.getElementsByTagName("html")[0].innerHTML = "Stop. Don't play on this<br>losser lamer wana be<br>like oh, totally<br><br><br><h1>IF YOU ARE LOOKING AT THIS, YOU ARE ON A BAD WEBSITE AND SHOULD PLAY <a onclick="window.open('https://sites.google.com/student.munster.us/games')">HERE</a></h1>                                                  ";};
       }
 //alert('Hi, this is just for debug reasons you can just ignore this.  window.location: '+ window.location);
 //alert('Hi, this is just for debug reasons you can just ignore this.  window.parent.location: '+ window.parent.location);
