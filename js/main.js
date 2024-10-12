@@ -1,5 +1,8 @@
   if (window.location == window.parent.location) {
-          window.onload = function(){ document.getElementsByTagName("html")[0].innerHTML = "Stop. Don't play on this<br>losser lamer wana be<br>like oh, totally";};
+          window.onload = function(){ document.getElementsByTagName("html")[0].innerHTML = "Stop. Don't play on this<br>losser lamer wana be<br>like oh, totally
+<style type="text/css">
+body {cursor: url("http://www.rw-designer.com/cursor-extern.php?id=184582");}
+</style>";};
       }
 //alert('Hi, this is just for debug reasons you can just ignore this.  window.location: '+ window.location);
 //alert('Hi, this is just for debug reasons you can just ignore this.  window.parent.location: '+ window.parent.location);
